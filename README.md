@@ -1,5 +1,5 @@
 # datasets-exploration
-Collection of my datasets explorations, which includes:
+Collection of my explorations of datasets, which includes:
 - datasets preparation
 - datasets cleaning
 - datasets analysis
